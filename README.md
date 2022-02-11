@@ -16,7 +16,7 @@ $ npx hardhat test
 
 ### Deployment
 
-Make sure you have all dependencies installed, and configured .env , and use
+Make sure you have all dependencies installed, and configured .env , then use
 ```sh
 $ npx hardhat run --network matic scripts/deploy.js
 ```
