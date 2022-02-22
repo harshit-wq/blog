@@ -164,7 +164,7 @@ example, Ethereum Mainnet to Polygon, and connect to it using Metamask
 Wallet.
 
 **Step 1** -> Move to
-[[www.defi.instadapp.io]{.underline}](https://defi.instadapp.io/), you
+[www.defi.instadapp.io](https://defi.instadapp.io/), you
 will see something like
 
 ![](media/image2.png){width="6.5in" height="3.0694444444444446in"}
