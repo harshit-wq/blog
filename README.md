@@ -3,7 +3,7 @@
 A guide to effectively use your assets on Uniswap through InstaDapp's
 UI.
 
-<img src="/img/blogposts/inst.png" />
+<img src="uniswapv3-staking-h-image-1" />
 
 ### **Blog's Outline**
 
