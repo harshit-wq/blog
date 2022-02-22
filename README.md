@@ -3,7 +3,7 @@
 A guide to effectively use your assets on Uniswap through InstaDapp's
 UI.
 
-![](https://github.com/Instadapp/blog-nuxt/blob/master/static/img/blogposts/2019-highlights.png=6.5x4.3)
+![](uniswapv3-staking-h-image-1.PNG){width="6.5in" height="4.319444444444445in"}
 
 ### **Blog's Outline**
 
