@@ -208,7 +208,7 @@ do that, follow along.
 
 ![](media/image8.png){width="6.5in" height="3.1944444444444446in"}
 
-**Step 2 **--- Select the asset you want to deposit
+**Step 2** --- Select the asset you want to deposit
 
 ![](media/image9.png){width="6.5in" height="3.1666666666666665in"}
 
@@ -216,12 +216,12 @@ do that, follow along.
 
 ![](media/image10.png){width="6.5in" height="3.1805555555555554in"}
 
-**Step 4 **--- Confirm the transaction (testing with less amount for
+**Step 4**--- Confirm the transaction (testing with less amount for
 now)
 
 ![](media/image11.png){width="6.5in" height="3.4722222222222223in"}
 
-**Step 5 **--- Check your balance.
+**Step 5**--- Check your balance.
 
 ![](media/image12.png){width="6.5in" height="3.2222222222222223in"}
 
@@ -290,11 +290,11 @@ rewards.\
 This section will learn how to create a pool for yourself on InstaDapp's
 UI.
 
-**Step 1 **--- Click on "+New Reward," you will get to
+**Step 1**--- Click on "+New Reward," you will get to
 
 ![](media/image20.png){width="6.5in" height="3.1666666666666665in"}
 
-**Step 2 **--- Select the pair on which you want to give rewards. For
+**Step 2**--- Select the pair on which you want to give rewards. For
 example, we want to reward people who provide liquidity to the MATIC/DAI
 pool, and we select Matic and Dai in the "Select pair" section.
 
@@ -329,7 +329,7 @@ Metamask.
 
 ![](media/image25.png){width="6.5in" height="3.1944444444444446in"}
 
-**Step 7 **--- Check the "Staking Rewards Pools" list and mark the "Yet
+**Step 7**--- Check the "Staking Rewards Pools" list and mark the "Yet
 to start" check box. After that, you would see all the Reward pools that
 currently offer rewards and the reward pools that will start offering
 rewards soon. In the list, you will also find the reward pool we
