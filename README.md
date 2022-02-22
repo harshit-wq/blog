@@ -3,7 +3,7 @@
 A guide to effectively use your assets on Uniswap through InstaDapp's
 UI.
 
-<img src="uniswapv3-staking-h-image-1" />
+<img src="uniswapv3-staking-h-image-1" width="624" height="414.7" />
 
 ### **Blog's Outline**
 
@@ -167,7 +167,7 @@ Wallet.
 [www.defi.instadapp.io](https://defi.instadapp.io/), you
 will see something like
 
-<img src="/img/blogposts/inst.png" />
+<img src="uniswapv3-staking-h-image-1"/>
 
 **Step 2**-> Change the Mainnet in Top-Right to Polygon, click
 connect, choose your preferred wallet, and connect it.
