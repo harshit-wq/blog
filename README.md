@@ -3,7 +3,7 @@
 A guide to effectively use your assets on Uniswap through InstaDapp's
 UI.
 
-![](media/image1.jpeg=6.5x4.3)
+![](https://github.com/Instadapp/blog-nuxt/blob/master/static/img/blogposts/2019-highlights.png=6.5x4.3)
 
 ### **Blog's Outline**
 
