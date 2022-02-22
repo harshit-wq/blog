@@ -391,10 +391,10 @@ exciting features on the Instadapp platform to help you manage your
 assets. To learn more about them all, please:
 
 -   Join the Instadapp
-    [[Discord]{.underline}](https://discord.gg/C76CeZc)
+    [Discord](https://discord.gg/C76CeZc)
 
 -   Follow Instadapp on
-    [[Twitter]{.underline}](https://twitter.com/Instadapp)
+    [Twitter](https://twitter.com/Instadapp)
 
--   Subscribe to the [[Instadapp
-    blog]{.underline}](https://blog.instadapp.io/)
+-   Subscribe to the [Instadapp
+    blog](https://blog.instadapp.io/)
