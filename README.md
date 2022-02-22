@@ -3,7 +3,7 @@
 A guide to effectively use your assets on Uniswap through InstaDapp's
 UI.
 
-![](uniswapv3-staking-h-image-1.PNG){width="6.5in" height="4.319444444444445in"}
+<img src="/img/blogposts/inst.png" />
 
 ### **Blog's Outline**
 
@@ -167,12 +167,12 @@ Wallet.
 [www.defi.instadapp.io](https://defi.instadapp.io/), you
 will see something like
 
-![](uniswapv3-staking-h-image-2.PNG){width="6.5in" height="3.0694444444444446in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 2**-> Change the Mainnet in Top-Right to Polygon, click
 connect, choose your preferred wallet, and connect it.
 
-![](media/image3.png){width="6.5in" height="3.2083333333333335in"}
+<img src="/img/blogposts/inst.png" />
 
 #### **Module 2 -> Creating DSA Account**
 
@@ -183,20 +183,20 @@ our Interface. This account is the main link between you and InstaDapp.
 
 **Step 1**-> Click on Create Account on the bottom right.
 
-![](media/image4.png){width="6.5in" height="3.1944444444444446in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 2 **-> Approve the transaction fee to create the account(This
 fee goes to the chain you are using)
 
-![](media/image5.png){width="6.5in" height="3.485125765529309in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 3** -> Wait for the transaction completion.
 
-![](media/image6.png){width="6.5in" height="3.1982589676290463in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 4** -> Here is your DSA account.
 
-![](media/image7.png){width="6.5in" height="3.2604166666666665in"}
+<img src="/img/blogposts/inst.png" />
 
 #### **Module 3-> Depositing money in our DSA account to use other protocols.**
 
@@ -206,24 +206,24 @@ do that, follow along.
 
 **Step 1** -> Click on Deposit under Balance
 
-![](media/image8.png){width="6.5in" height="3.1944444444444446in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 2** -> Select the asset you want to deposit
 
-![](media/image9.png){width="6.5in" height="3.1666666666666665in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 3** -> Enter the amount you want to Deposit in your DSA
 
-![](media/image10.png){width="6.5in" height="3.1805555555555554in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 4**-> Confirm the transaction (testing with less amount for
 now)
 
-![](media/image11.png){width="6.5in" height="3.4722222222222223in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 5**-> Check your balance.
 
-![](media/image12.png){width="6.5in" height="3.2222222222222223in"}
+<img src="/img/blogposts/inst.png" />
 
 #### **Module 4 -> Trading one asset for another asset.**
 
@@ -235,21 +235,21 @@ the deposited asset for some other.
 **Step 1** ->  Click on trade beside the token you want to trade for
 another. For example, here we want to sell Matic for dai.
 
-![](media/image13.png){width="6.5in" height="3.1944444444444446in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 2** -> Enter the token amount you want to swap for another. Here
 I have selected DAI; based on the amount of Matic you wish to trade, it
 will show you the amount of DAI you will get.
 
-![](media/image14.png){width="6.5in" height="3.1944444444444446in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 3** -> Confirm the trade.
 
-![](media/image15.png){width="6.5in" height="3.486111111111111in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 4** -> Check the balance of both your tokens.
 
-![](media/image16.png){width="6.5in" height="3.2222222222222223in"}
+<img src="/img/blogposts/inst.png" />
 
 #### **Module 5-> Moving to Uniswap V3**
 
@@ -259,11 +259,11 @@ So let's open the Uniswap V3 protocol to use it in our UI.
 
 **Step 1** -> Expand Protocols
 
-![](media/image17.png){width="6.5in" height="3.2083333333333335in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 2** -> Click on Uniswap V3 to move to the protocol.
 
-![](media/image18.png){width="6.5in" height="3.2083333333333335in"}
+<img src="/img/blogposts/inst.png" />
 
 #### **Module 6-> How to create Uniswap staking rewards**
 
@@ -272,7 +272,7 @@ that the pool\'s liquidity providers can get reward tokens by keeping
 their liquidity position staked. We will create a pool with DAI as the
 reward for Liquidity providers.
 
-![](media/image19.png){width="6.5625in" height="3.1979166666666665in"}
+<img src="/img/blogposts/inst.png" />
 
 You can see the pools under the "Staking Reward Pools" section; These
 pools are available for staking your liquidity position. If you provide
@@ -292,20 +292,20 @@ UI.
 
 **Step 1**-> Click on "+New Reward," you will get to
 
-![](media/image20.png){width="6.5in" height="3.1666666666666665in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 2**-> Select the pair on which you want to give rewards. For
 example, we want to reward people who provide liquidity to the MATIC/DAI
 pool, and we select Matic and Dai in the "Select pair" section.
 
-![](media/image21.png){width="6.5in" height="3.1805555555555554in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 3** -> Select the fee by clicking on any three fee tiers. We
 have three options 0.05%, 0.3%, and 1%; keeping the fee as 0.3% means
 that whenever someone swaps one token for other in the pool, the
 liquidity providers will get 0.3% of the value swapped.
 
-![](media/image22.png){width="6.5in" height="3.2083333333333335in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 4** -> Select the token you want to give as a reward; suppose
 you want to give DAI as a reward to the liquidity providers. So select
@@ -313,7 +313,7 @@ DAI under the "Select Reward Token" and enter the amount you want to
 give as a reward; for example, we will give 1 Dai to liquidity providers
 as rewards.
 
-![](media/image23.png){width="6.5in" height="3.2083333333333335in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 5** -> Select the time frame for which you want this offer to be
 available for the liquidity providers, the creation date of this
@@ -322,12 +322,12 @@ end time as 18 Feb, 11:00 P.M. that is for one day. That means that if
 someone provides liquidity within that time frame is eligible to get
 rewards until the reward time ends, that is 18 Feb at 11:00 P.M.
 
-![](media/image24.png){width="6.5in" height="3.2083333333333335in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 6** -> Click on Create Incentive and confirm payment on
 Metamask.
 
-![](media/image25.png){width="6.5in" height="3.1944444444444446in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 7**-> Check the "Staking Rewards Pools" list and mark the "Yet
 to start" check box. After that, you would see all the Reward pools that
@@ -335,7 +335,7 @@ currently offer rewards and the reward pools that will start offering
 rewards soon. In the list, you will also find the reward pool we
 created.
 
-![](media/image26.png){width="6.5in" height="3.1944444444444446in"}
+<img src="/img/blogposts/inst.png" />
 
 #### **Module 7-> How to stake on staking rewards**
 
@@ -347,7 +347,7 @@ pools give an incentive to provide liquidity, so we can select any of
 the pools we want to provide liquidity to and reap the benefits. For
 example, let\'s choose USDC/ETH by clicking on it.
 
-![](media/image27.png){width="6.5in" height="3.2083333333333335in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 2** ->  Selecting a pool this way will automatically set the
 price range so that you provide 50/50 liquidity, equal parts of two
@@ -355,7 +355,7 @@ assets. Uniswap v3 allows liquidity providers to create price ranges
 where the liquidity may not be 50/50, you can even leave the range as it
 is if you wish to.
 
-![](media/image28.png){width="6.5in" height="3.1805555555555554in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 3** -> Enter the amount you want to put in the liquidity pool,
 but make sure you have both the assets in an equal amount. Suppose you
@@ -365,12 +365,12 @@ enter the deposit amount for one asset. (You can trade your available
 asset to get these USDC and ETH assets, you can follow the fourth module
 for that).
 
-![](media/image29.png){width="6.5in" height="3.1666666666666665in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 4** -> click on create and then confirm from your Metamask
 wallet.
 
-![](media/image30.png){width="6.5in" height="3.1944444444444446in"}
+<img src="/img/blogposts/inst.png" />
 
 **Step 5** -> Check your position under the "Your Position" section of
 the webpage. Your position is now staked and earning rewards! Instadapp
@@ -378,7 +378,7 @@ will automatically stake your positions on all available rewards. You
 came from WMATIC but you will also receive all ongoing staking rewards
 being rewarded to USDC/ETH 0.03%.
 
-![](media/image31.png){width="6.5in" height="3.2083333333333335in"}
+<img src="/img/blogposts/inst.png" />
 
 ### 
 
