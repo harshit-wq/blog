@@ -156,7 +156,7 @@ This Part of Blog Contains 7 Modules-
 
 > Note -> You can skip to the fifth Module if you are familiar with the
 > DSA account.
-
+>
 #### **Module 1 -> Connecting to Metamask and migrating to preferred chain**
 
 In this, we will learn to migrate from one chain to another, for
