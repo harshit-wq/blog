@@ -3,7 +3,7 @@
 A guide to effectively use your assets on Uniswap through InstaDapp's
 UI.
 
-![](media/image1.jpeg){width="6.5in" height="4.319444444444445in"}
+![](media/image1.jpeg=6.5x4.3)
 
 ### **Blog's Outline**
 
