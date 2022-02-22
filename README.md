@@ -167,7 +167,7 @@ Wallet.
 [www.defi.instadapp.io](https://defi.instadapp.io/), you
 will see something like
 
-![](media/image2.png){width="6.5in" height="3.0694444444444446in"}
+![](uniswapv3-staking-h-image-2.PNG){width="6.5in" height="3.0694444444444446in"}
 
 **Step 2**-> Change the Mainnet in Top-Right to Polygon, click
 connect, choose your preferred wallet, and connect it.
